@@ -1,2 +1,0 @@
-# Actualizr
-actualizar articulo 
